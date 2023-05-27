@@ -1,1 +1,1 @@
-console.log("LEARNING GIT")
+console.log("LEARNING SOMETHING NEW")
